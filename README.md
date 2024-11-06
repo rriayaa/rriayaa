@@ -46,7 +46,12 @@ Hi there! I'm **Ria Dwi Ratna**, a **third-semester Information Technology stude
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7btN8zXlIu3tTQ7S/giphy.gif" alt="pink typing animation" width="300"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="heart animation" width="100"/>
 </p>
+
 
 
