@@ -34,7 +34,7 @@ Hi there! I'm **Ria Dwi Ratna**, a **third-semester Information Technology stude
 - 🚀 Experimenting with **Laravel** and **React** as I expand my skills
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="learning animation" width="300"/>
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8X8Ew/giphy.gif" alt="typing animation pink" width="300"/>
 </p>
 
 ## 🌐 **Let's Connect**
@@ -46,12 +46,7 @@ Hi there! I'm **Ria Dwi Ratna**, a **third-semester Information Technology stude
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btN8zXlIu3tTQ7S/giphy.gif" alt="pink typing animation" width="300"/>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="heart animation" width="100"/>
 </p>
-
 
 
